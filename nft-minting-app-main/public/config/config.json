@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8628c3221bb78d88629af2ff593b615c3cc2312b",
+  "SCAN_LINK": "https://polygonscan.com/tx/0x29223823e58c98adbb9a3b3ce3a45ba732ccf44b07c53f6cbb7baff3f78bc5aa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pengulionares",
+  "SYMBOL": "PNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pengulionares",
+  "SHOW_BACKGROUND": true
+}
